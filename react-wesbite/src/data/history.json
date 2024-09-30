@@ -1,0 +1,10 @@
+[
+  {
+    "role": "IT Support Technician",
+    "organisation": "NC State",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Provide technical support for hardware, software, and system issues for staff and faculty across the whole college.", "Collaborate with team members to resolve complex issues, improving overall system efficiency.", "Manage user access and permissions through Active Directory, ensuring proper authentication and access"],
+    "imageSrc": "history/IT.png"
+  }
+]

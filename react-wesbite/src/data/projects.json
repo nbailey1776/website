@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Python Facial Recognition App",
+      "imageSrc": "projects/FacialRecognition.png",
+      "description": "Web-based facial recognition system featuring real-time facial detection and processing",
+      "skills": ["React", "HTML", "CSS", "OpenCV", "SQLAlchemy"],
+      "demo": "/assets/projects/FacialRecognitionVideo.mp4",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "SHA256 Hash Generator",
+      "imageSrc": "projects/Hash.png",
+      "description": "Project made to hash plain text using SHA256",
+      "skills": ["Cyber Security", "C"],
+      "demo": "/assets/projects/HashVideo.mp4",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Social Media Manager",
+      "imageSrc": "projects/SocialMediaManager.png",
+      "description": "Sorts users by both connections and platform, maintaining efficient runtime for large datasets",
+      "skills": ["Java", "Data Strcutures & Algorithms"],
+      "demo": "/assets/projects/SocialMediaManagerVideo.mp4",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Car Detailing Website",
+      "imageSrc": "projects/project.png",
+      "description": "Full Stack web application to streamline booking and payment processes for a car detailing service (WIP)",
+      "skills": ["Node.js", "Express", "MongoDB", "React"],
+      "demo": "",
+      "source": "https://www.github.com"
+    }
+  ]
